@@ -1,0 +1,3 @@
+<div className="create-note w-[400px] mx-auto">
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjY0NDNjMGE3OWFiMTM1MWQ5NTU4MzE1In0sImlhdCI6MTcxNTc0Nzg1MH0.lLUFNu-ICqvzxKfwP5ZnWvtZ-fZqwdPjmks7wL1k8Kk
